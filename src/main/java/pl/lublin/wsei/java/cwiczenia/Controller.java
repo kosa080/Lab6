@@ -1,9 +1,9 @@
-package sample.lab7;
+package pl.lublin.wsei.java.cwiczenia;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class Controller {
     @FXML
     private Label welcomeText;
 
